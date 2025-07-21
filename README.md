@@ -1,32 +1,77 @@
-# Mecasimetra
+🌌 Mecasimetra
 
-🌌 Vision
+**Own Time. Simulate Memory. Collapse Decisions.**
 
-> Mecasimetra seeks to transform decision-making across domains: from capital allocation and system design to adaptive cognition and autonomous reasoning. It’s not just AI — it’s time-aware, entropy-driven intelligence.
+Mecasimetra is a capital-intelligent technology company building the future of intelligent systems through a new computational paradigm — one governed by **time, entropy, and ownership**.
 
-> Mecasimetra is a capital-intelligent technology company that builds cognitive infrastructures governed by time, entropy, and ownership logic. It pioneers the Quantum Ownership Strategy (QOS) — a multidimensional, probabilistic decision-making framework that treats decisions like quantum states, collapsing based on entropy, memory, and reinforcement.
+At its core is **MecaSim**, a chronoentropic decision simulation engine that models memory, decay, and probabilistic reasoning using the laws of entropy and reinforcement.
 
-### Core Innovations
+---
 
-1. Quantum Ownership Strategy (QOS)
-A proprietary financial and decision-theoretic model that uses:
+## 🧠 Vision
 
+Mecasimetra seeks to transform decision-making across domains — from capital allocation and system design to cognitive automation and autonomous reasoning. It’s not just AI — it’s **time-aware, entropy-driven intelligence.**
 
-*** Superposition of capital states. Entropy decay and reinforcement. Probabilistic  memory collapse. Multidimensional signal weighting.
+We believe decisions are **not binary**, but probabilistic. They decay. They collapse. They must be **earned, reinforced, or forgotten.**
 
-
-2. Chronoentropic Decision Memory (CDM)
-A temporal memory layer that tracks signal importance over time, modeling decision momentum through entropy and reinforcement loops.
+---
 
 
-3. Chronoentropic Signal Engine (CSE)
+## 🧬 Core Theories
 
-*** Processes 50,000+ signals/sec. Real-time entropy-based ranking ***
+### 📉 Quantum Ownership Strategy (QOS)
 
+A multidimensional, probabilistic decision-making model built on:
 
-### Future Projects
+- **Superposition** of capital or memory states
+- **Entropy decay** over time
+- **Reinforcement feedback loops**
+- **Collapse of decisions** based on probabilistic memory weight
 
-4. Meca Linux
+### 🧠 Chronoentropic Decision Memory (CDM)
 
-*** Mecasimetra’s proprietary OS. Built on a Quantum Chronoentropic Kernel (qCD-Kernel)
-Features a Chronoentropic Quantum Memory Scheduler (CQMS). Geometric UI, purple penguin mascot, and the slogan: “Own Time.”
+A memory system where signals decay in value unless reinforced — modeling attention, learning, and forgetting.
+
+### ⚡ Chronoentropic Signal Engine (CSE)
+
+A high-performance Rust engine that:
+- Processes 50,000+ signals/sec
+- Computes entropy-weighted relevance
+- Ranks, decays, and collapses signals in real time
+
+---
+
+## 🚀 Roadmap
+
+All future systems will be powered by the MecaSim core.
+
+### 📁 Planned Future Projects *(Not Yet Built)*
+
+| Project | Description |
+|--------|-------------|
+| **MecaBot** | A cognitive reasoning agent powered by QOS and CDM |
+| **MecaOS** | A chronoentropic operating system with quantum memory scheduling |
+| **MecaInvest** | A capital allocation engine using probabilistic decision logic |
+| **MecaWeb** | A web of attention and decay, where content relevance is entropic |
+| **Meca Linux** | Mecasimetra’s flagship OS: featuring a qCD-Kernel, CQMS, and geometric UI |
+
+> *Mascot: A sleek purple penguin in sunglasses and a bow tie*  
+> *Slogan: "Own Time."*
+
+---
+
+## 🔐 Licensing
+
+All models, algorithms, and system designs are intellectual property of **Mecasimetra**.  
+© Mecasimetra. All rights reserved.
+
+---
+
+## 🤝 Join the Quantum
+
+If you're a developer, researcher, or creative interested in building time-aware, memory-conscious, ownership-based intelligence — this is the frontier.
+
+> Own memory.  
+> Own entropy.  
+> **Own time.**
+
